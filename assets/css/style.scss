@@ -6,7 +6,9 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: helvetica;
+	font-family: "rooney-sans", helvetica, arial ,sans-serif;
+	background: #fff6e4 url(/assets/images/texture.gif);
+
 }
 
 h1 { 
@@ -15,6 +17,10 @@ h1 {
 
 br {
 	clear: both;
+}
+
+.script {
+	 font-family: 'Pacifico', cursive;
 }
 
 
